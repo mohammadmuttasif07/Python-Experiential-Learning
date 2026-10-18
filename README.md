@@ -1,4 +1,3 @@
-
 # Rolling Dice Simulator 🎲
 
 A simple dice rolling project made using Python and Streamlit.
